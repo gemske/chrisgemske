@@ -9,7 +9,7 @@ text-align: center;
 }
 
 #background {
-    width: 120%;
+    width: 100%;
     height: auto;
     position: fixed;
     left: 0px;
@@ -18,8 +18,8 @@ text-align: center;
 }
 
 .stretch {
-    width:auto;
-    height:100%;
+    width:100%;
+    height:auto;
 }
 
 body {
