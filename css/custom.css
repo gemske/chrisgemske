@@ -15,11 +15,26 @@ text-align: center;
 	display: block;
 }
 
+#content img {
+  margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
 .stretch {
     width:70%;
     height:auto;
     padding-left: 20px;
     padding-right: 20px;
+
+}
+
+.cat {
+    width:95%;
+    height:auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
 
 }
 
